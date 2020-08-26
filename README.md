@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwjy5446&count_bg=%2379C83D&title_bg=%23555555&icon=bilibili.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hello 👋 My name is Jaeyoung Yoon
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaeyoung-yoon/)](https://www.linkedin.com/in/jaeyoung-yoon/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jaeyoung.yoon.940/)](https://www.facebook.com/jaeyoung.yoon.940/) [![Notion Badge](https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/whaledev/4a758593c333440f88ffee10f72cceea)](https://www.notion.so/whaledev/4a758593c333440f88ffee10f72cceea)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaeyoung-yoon/)](https://www.linkedin.com/in/jaeyoung-yoon/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jaeyoung.yoon.940/)](https://www.facebook.com/jaeyoung.yoon.940/) [![Portfolio Badge](https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/whaledev/4a758593c333440f88ffee10f72cceea)](https://www.notion.so/whaledev/4a758593c333440f88ffee10f72cceea)
 
 <img align='right' src="https://media.giphy.com/media/11BbGyhVmk4iLS/giphy.gif" width="230" />
 
