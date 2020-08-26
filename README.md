@@ -6,7 +6,7 @@
 <img align='right' src="https://media.giphy.com/media/11BbGyhVmk4iLS/giphy.gif" width="230" />
 
 - 🔭 Software Enginner Interested in visual software (🤖 Vision machine learning, 💻 Web) 
-- 🌱 I always study everyday. ([Reading paper](https://www.notion.so/whaledev/Reading-List-e85c59c676574e15bc33b32fdb333cd3), [Programming](https://www.notion.so/whaledev/Programing-c4c5d6ead633412899c50a2007ccae11)
+- 🌱 I always study everyday. ([Reading paper](https://www.notion.so/whaledev/Reading-List-e85c59c676574e15bc33b32fdb333cd3), [Programming](https://www.notion.so/whaledev/Programing-c4c5d6ead633412899c50a2007ccae11))
 
 <!--
 **wjy5446/wjy5446** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
