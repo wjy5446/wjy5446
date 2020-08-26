@@ -3,7 +3,7 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://wjy5446.github.io/)](https://wjy5446.github.io/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaeyoung-yoon/)](https://www.linkedin.com/in/jaeyoung-yoon/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jaeyoung.yoon.940/)](https://www.facebook.com/jaeyoung.yoon.940/)
 
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+<img align='right' src="https://media.giphy.com/media/11BbGyhVmk4iLS/giphy.gif" width="230" />
 
 - 🔭 Software Enginner Interested in visual software (🤖Vision machine learning, 💻Front-end) 
 
