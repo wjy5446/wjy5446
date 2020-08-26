@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media.giphy.com/media/11BbGyhVmk4iLS/giphy.gif" width="230" />
 
-- 🔭 Software Enginner Interested in visual software (🤖Vision machine learning, 💻Front-end) 
+- 🔭 Software Enginner Interested in visual software (🤖 Vision machine learning, 💻 Web) 
 
 <!--
 **wjy5446/wjy5446** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
