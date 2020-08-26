@@ -8,6 +8,17 @@
 - 🔭 Software Enginner Interested in visual software (🤖 Vision machine learning, 💻 Web) 
 - 🌱 I always study everyday. ([Reading paper](https://www.notion.so/whaledev/Reading-List-e85c59c676574e15bc33b32fdb333cd3), [Programming](https://www.notion.so/whaledev/Programing-c4c5d6ead633412899c50a2007ccae11))
 
+**Languages and Tools** 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+[![Jaeyoung's github stats](https://github-readme-stats.vercel.app/api?username=wjy5446)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **wjy5446/wjy5446** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
